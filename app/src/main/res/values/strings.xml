@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Snooze</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="notification_listener_service">"Servicio de escucha de notificaciones"</string>
+    <string name="notification_listener_service_explanation">"Para la aplicación. para trabajar necesita habilitar el servicio de escucha de notificaciones. ¿Habilitarlo ahora?"</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+
+</resources>
